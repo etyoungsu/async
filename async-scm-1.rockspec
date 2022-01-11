@@ -2,7 +2,7 @@ package = "async"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/clementfarabet/async",
+   url = "https://github.com/clementfarabet/async",
    dir = "async"
 }
 
